@@ -40,4 +40,4 @@ Pode me chamar no discord -> [lynxnux_](https://discordapp.com/users/lynxnux_)
 
 ---
 
-*“Fazendo código por hobby, do jeito que dá.”*
+*“Por hobby.”*
