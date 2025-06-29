@@ -1,4 +1,4 @@
-# <span style="color:#58a6ff;">Caaasss</span>
+# Caaasss
 
 ![coding](https://media.tenor.com/qP2ZEM3QBC8AAAAC/coding.gif)
 
@@ -9,18 +9,18 @@ Não espero perfeição, só quero ver ideias saírem do papel.
 
 ### Sobre mim
 
-- ![#8affd1](https://via.placeholder.com/15/8affd1/000000?text=+) Gosto de criar jogos e ferramentas simples  
-- ![#8affd1](https://via.placeholder.com/15/8affd1/000000?text=+) Experimento engines como Godot, Ursina, e raycasting com Python  
-- ![#8affd1](https://via.placeholder.com/15/8affd1/000000?text=+) Curto fazer bots, sistemas e apps por diversão  
-- ![#8affd1](https://via.placeholder.com/15/8affd1/000000?text=+) Às vezes escrevo em JS, Python.
+- Gosto de criar jogos e ferramentas simples  
+- Experimento engines como Godot, Ursina, e raycasting com Python  
+- Curto fazer bots, sistemas e apps por diversão  
+- Às vezes escrevo em JS, Python.
 
 ---
 
 ### O que você vai encontrar aqui
 
-- ![#79c0ff](https://via.placeholder.com/15/79c0ff/000000?text=+) Projetos feitos no tempo livre  
-- ![#79c0ff](https://via.placeholder.com/15/79c0ff/000000?text=+) Códigos que tentam funcionar  
-- ![#79c0ff](https://via.placeholder.com/15/79c0ff/000000?text=+) Protótipos, experimentos e ideias soltas
+- Projetos feitos no tempo livre  
+- Códigos que tentam funcionar  
+- Protótipos, experimentos e ideias soltas
 
 ---
 
