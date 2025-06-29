@@ -1,5 +1,9 @@
 # Caaasss
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Language](https://img.shields.io/badge/language-Python-blue)
+![Hobby](https://img.shields.io/badge/hobby-gaming-purple)
+
 ![coding](https://media.tenor.com/qP2ZEM3QBC8AAAAC/coding.gif)
 
 Apenas uma pessoa que programa e cria jogos como passatempo.  
