@@ -30,7 +30,7 @@ Não espero perfeição, só quero ver ideias saírem do papel.
 
 ### Contato
 
-Pode me chamar no discord -> [lynxnux_](https://discordapp.com/users/lynxnux_)
+Pode me chamar no discord -> [aberdeenn](https://discordapp.com/users/aberdeenn_)
 
 ---
 
