@@ -1,6 +1,4 @@
-
-![13192b6acbd744386828645adaa92cb9](https://github.com/user-attachments/assets/b3edd87e-8fd4-4a61-be2f-8783251ecbd4)
-
+![3408a6ccb3b03b137a492d2264a67c04](https://github.com/user-attachments/assets/77a7f636-081d-4891-a121-eed740fbed41)
 ## Sobre mim
 - Meu nome é Cass
 - Tento fazer algumas merdas com **Python**, **JavaScript** e **HTML**  
