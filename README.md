@@ -1,5 +1,4 @@
-# Oi meu nome é Cass
-![hello-my-name-is-sticker-tag-vector-4042949640](https://github.com/user-attachments/assets/c2746179-00bc-4a97-a797-3805779b7ac4)
+# 
 
 ## Sobre mim
 
