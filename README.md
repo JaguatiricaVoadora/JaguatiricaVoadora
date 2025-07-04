@@ -1,10 +1,10 @@
-# Cass — Codando na prática
+# Cass — 
 
 ## Sobre mim
 
 - Trabalho com **Python**, **JavaScript** e **HTML**  
-- Não sou profissional, só programo porque curto e tô na pegada de aprender sempre  
-- Errando, quebrando a cabeça e seguindo em frente  
+- Não sou profissional, e ainda estou aprendendo coisas
+- Sempre errando e quebrando tudo
 
 ---
 
