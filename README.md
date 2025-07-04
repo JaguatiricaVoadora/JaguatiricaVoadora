@@ -1,4 +1,5 @@
-# 
+
+![13192b6acbd744386828645adaa92cb9](https://github.com/user-attachments/assets/b3edd87e-8fd4-4a61-be2f-8783251ecbd4)
 
 ## Sobre mim
 - Meu nome é Cass
