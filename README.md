@@ -1,8 +1,8 @@
 # 
 
 ## Sobre mim
-
-- Trabalho com **Python**, **JavaScript** e **HTML**  
+- Meu nome é Cass
+- Tento fazer algumas merdas com **Python**, **JavaScript** e **HTML**  
 - Não sou profissional, e ainda estou aprendendo coisas
 - Sempre errando e quebrando tudo
 
