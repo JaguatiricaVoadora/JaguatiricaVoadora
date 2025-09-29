@@ -1,1 +1,1 @@
-The World Wide Web kills people.
+Love the World wide web
